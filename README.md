@@ -1,16 +1,21 @@
-## Hi there 👋
+Eae, blz? Me chamo Magno Braccini, estudante de ADS e abaixo trago algumas informações sobre mim.
 
-<!--
-**magnobraccini/magnobraccini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente estou me desenvolvendo em java.
+- 🔭 Juntamente com a progtamação, estou me apronfundando em sistemas ERP.
+  
+- 📫 Para contato, segue meu email em seguida: braccinimagno@gmail.com
 
-Here are some ideas to get you started:
+<!-- Banner / Header -->
+<h1 align="center">🦇 magnobraccini</h1>
+<p align="center">
+  <i>Clean code. Dark themes. Building things with intent.</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Style-Dark%20Mode-111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code-C%23-239120?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-ADS-0055ff?style=for-the-badge" />
+</p>
