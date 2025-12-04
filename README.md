@@ -6,7 +6,8 @@ Prazer, me chamo Magno Braccini. Sou estudante de Análise e Desenvolvimento de 
 - 📫 Contato: braccinimagno@gmail.com
 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=magnobraccini&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=magnobraccini&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
+<p align="center">
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=magnobraccini&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
+  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=magnobraccini&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
+</p>
+```
